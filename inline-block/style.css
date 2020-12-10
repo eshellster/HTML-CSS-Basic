@@ -1,0 +1,16 @@
+a {
+  background-color: #7b37c9;
+}
+
+.block > a {
+  display: block;
+  height: 3rem;
+  text-align: center;
+}
+
+.inlineBlock > a {
+  display: inline-block;
+  height: 3rem;
+  width: 17rem;
+  text-align: center;
+}
